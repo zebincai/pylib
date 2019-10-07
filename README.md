@@ -7,5 +7,4 @@ Just add the library to the environment variable PYTHONPATH
 
 ## support
 
-### classification
-mnist
+
